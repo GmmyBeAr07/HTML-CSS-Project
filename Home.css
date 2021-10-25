@@ -1,0 +1,20 @@
+body {
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img-es/oslo-g696f8a0e0_1920.jpg);
+
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    backface-visibility:visible;
+    background-size: 100% 100%;
+  }
+
+.navbar-brand {
+  padding:0%;
+}
+
+#navbarNav {
+  justify-content: center;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  color: whitesmoke;
+}
